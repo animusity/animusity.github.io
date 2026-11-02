@@ -1,0 +1,49 @@
+{
+  "site": {
+    "name": "Animusity",
+    "tagline": "An archive of characters. A place for what comes next.",
+    "about": "Welcome to the home base for the goblins. This is a place for original characters, the worlds they inhabit, and the stories still taking shape.",
+    "preview": true
+  },
+  "characters": [
+    {
+      "id": "sample-record",
+      "name": "Your first character",
+      "subtitle": "A space for someone worth remembering.",
+      "world": "sample-world",
+      "status": "Draft",
+      "sample": true,
+      "tags": ["Sample record"],
+      "summary": "This is a demonstration profile. Your character's introduction, portrait, and story will go here.",
+      "bio": "Every character has a beginning.\n\nThis sample shows how a profile will appear in the archive. Replace it with a public introduction, a few essential details, and the links you want visitors to explore.",
+      "portrait": "",
+      "portraitAlt": "",
+      "facts": {"Pronouns": "To be added", "Age": "To be added"},
+      "gallery": [],
+      "links": []
+    }
+  ],
+  "worlds": [
+    {
+      "id": "sample-world",
+      "name": "A world in the making",
+      "sample": true,
+      "summary": "A demonstration setting. Keep connected characters together without mixing their stories.",
+      "description": "A place for the setting, atmosphere, and shared background of your characters. Replace this sample with your own world when you're ready."
+    }
+  ],
+  "plans": [
+    {
+      "title": "A new character takes shape",
+      "stage": "Concept",
+      "sample": true,
+      "description": "A sample future-plan entry. Share a teaser, a mood, or a glimpse of someone you're developing."
+    },
+    {
+      "title": "A story waiting to unfold",
+      "stage": "In progress",
+      "sample": true,
+      "description": "A sample progress entry. Use this space for upcoming character releases, new worlds, or profile updates."
+    }
+  ]
+}
